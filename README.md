@@ -23,14 +23,17 @@
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats  
 
-![Mridhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=mridhavkhajuria&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mridhavkhajuria&layout=compact&theme=dark)
+![Mridhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MridhavKhajuria&show_icons=true&theme=default&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MridhavKhajuria&layout=compact&hide_border=true&langs_count=8)  
 
-<!-- Optional GitHub Streak -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mridhavkhajuria&theme=dark) -->
+---
 
-## 🧩 LeetCode
+## 🧩 LeetCode Profile  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mridhav?theme=dark&font=Nunito&ext=activity)
+<!-- Badges Showcase -->
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=mridhavkhajuria&theme=github)
+
+<!-- Stats card: shows solved count + easy/medium/hard + heatmap -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/mridhavkhajuria?theme=light&font=Source%20Code%20Pro&ext=heatmap)
