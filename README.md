@@ -27,8 +27,9 @@ Building backend & ML systems with a cybersecurity mindset.
 
 ---
 
-## 📂 Featured Projects
+## 🧩 LeetCode Profile  
 
-[![Encrypted CLI Command Logger](https://github-readme-stats.vercel.app/api/pin/?username=MridhavKhajuria&repo=Encrypted-CLI-Command-Logger&theme=default&hide_border=true)](https://github.com/MridhavKhajuria/Encrypted-CLI-Command-Logger)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FYOUR_LEETCODE_USERNAME&logo=leetcode&logoColor=yellow)](https://leetcode.com/mridhavkhajuria)
 
-[![Cybersecurity-Tools](https://github-readme-stats.vercel.app/api/pin/?username=MridhavKhajuria&repo=Cybersecurity-Tools&theme=default&hide_border=true)](https://github.com/MridhavKhajuria/Cybersecurity-Tools)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/mridhavkhajuria)
+
