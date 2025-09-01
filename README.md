@@ -28,6 +28,7 @@ Building backend & ML systems with a cybersecurity mindset.
 ---
 
 ## 🧩 LeetCode Profile  
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=default)
 
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FYOUR_LEETCODE_USERNAME&logo=leetcode&logoColor=yellow)](https://leetcode.com/mridhavkhajuria)
 
