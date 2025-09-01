@@ -1,8 +1,8 @@
 # Hi, I'm Mridhav Khajuria 👋  
 
-🎓 3rd-year B.Tech (CSE) @ VIT Bhopal • GPA: 8.06  
+🎓 34th-year B.Tech (CSE) @ VIT Bhopal 
 💻 Building backend & ML systems with a cybersecurity mindset  
-🛠️ Languages: Python · Java · C++ · JavaScript · SQL  
+🛠️ Languages: Python · Java · JavaScript · SQL  
 📦 Tools & libs: Pandas · NumPy · scikit-learn · PyTorch/TensorFlow (learning) · Flask  
 
 📫 Reach me at **mridhavkhajuria2022@vitbhopal.ac.in**  
