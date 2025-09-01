@@ -18,3 +18,17 @@ Building backend & ML systems with a cybersecurity mindset.
 - Internships: **ARTRAC**, **CyberPeace Foundation**
 
 📫 mridhavkhajuria2022@vitbhopal.ac.in
+
+## 📊 GitHub Stats
+
+![Mridhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MridhavKhajuria&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MridhavKhajuria&layout=compact&hide_border=true&langs_count=8)
+
+---
+
+## 📂 Featured Projects
+
+[![Encrypted CLI Command Logger](https://github-readme-stats.vercel.app/api/pin/?username=MridhavKhajuria&repo=Encrypted-CLI-Command-Logger&theme=default&hide_border=true)](https://github.com/MridhavKhajuria/Encrypted-CLI-Command-Logger)
+
+[![Cybersecurity-Tools](https://github-readme-stats.vercel.app/api/pin/?username=MridhavKhajuria&repo=Cybersecurity-Tools&theme=default&hide_border=true)](https://github.com/MridhavKhajuria/Cybersecurity-Tools)
