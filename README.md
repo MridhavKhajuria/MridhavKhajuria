@@ -13,16 +13,14 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MridhavKhajuria&theme=dark&hide_border=true)  
 
 <!-- Optional full stats + top languages (commented) -->
-<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MridhavKhajuria&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MridhavKhajuria&layout=compact&theme=dark&hide_border=true)
--->
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,git,linux,flask,react,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,flask,pytorch,tensorflow" />
 </p>
 
 ---
